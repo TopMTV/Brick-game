@@ -1,0 +1,12 @@
+# Test
+
+## Mô tả
+- Brick-game demo
+- Ngôn ngữ: ...
+- Cách chạy: ...
+
+## Hướng dẫn chạy
+```bash
+# ví dụ
+npm install
+npm run dev
